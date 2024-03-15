@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Dholeria</h1>
-<h3 align="center">A passionate student developer from India</h3>
+<h3 align="center">A Passionate Software Engineering Student Crafting Code for Tomorrow's Innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishdholeria&label=Profile%20views&color=0e75b6&style=flat" alt="krishdholeria" /> </p>
 
