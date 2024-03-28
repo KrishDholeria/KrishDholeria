@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Dholeria</h1>
 <h3 align="center">A Passionate Software Engineering Student Crafting Code for Tomorrow's Innovations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishdholeria&label=Profile%20views&color=0e75b6&style=flat" alt="krishdholeria" /> </p>
 
 <p align="left"> <a href="https://twitter.com/krishdholeria" target="blank"><img src="https://img.shields.io/twitter/follow/krishdholeria?logo=twitter&style=for-the-badge" alt="krishdholeria" /></a> </p>
 
@@ -35,3 +34,5 @@
 [![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishDholeria&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="./profile-3d-contrib/profile-night-view.svg" align="center">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishdholeria&label=Profile%20views&color=0e75b6&style=flat" alt="krishdholeria" /> </p>
